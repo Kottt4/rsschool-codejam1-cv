@@ -14,7 +14,7 @@ header {
 
 main {
   padding: 0 8px 8px 8px;
-  background-color: aliceblue;
+  background-color: lightskyblue;
 }
 
 figure {
@@ -27,5 +27,5 @@ footer {
   padding: 0 8px; 
   text-align: right; 
   line-height: 40px;
-  background-color:coral; 
+  background-color: coral; 
 }
